@@ -241,4 +241,4 @@ This repository serves as the official landing page for SuperVideoCap. The softw
 **Get the most recent version of SuperVideoCap today!**
 
 ---
-**Last updated:** 2026-10-09 06:51:43 UTC
+**Last updated:** 2026-10-09 13:54:20 UTC
